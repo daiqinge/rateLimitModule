@@ -19,7 +19,8 @@ How you do this is up to you. Think about how easy your rate limiter will be to 
 ### Clone the repository
 
 ```shell
-git clone https://github.com/daiqinge/tennisScoreSystem
+git clone https://github.com/daiqinge/rateLimitModule
+
 ```
 
 ### Install JDK, Maven
