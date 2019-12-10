@@ -27,3 +27,5 @@ git clone https://github.com/daiqinge/rateLimitModule
 
 ### Run test
 RUN JUnit
+
+http://localhost:8080/
